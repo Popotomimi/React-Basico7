@@ -1,0 +1,74 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reto",
+      "price": 29.9
+    },
+    {
+      "name": "Robertinho",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "pastel",
+      "price": "21.50",
+      "id": 6
+    },
+    {
+      "name": "cachorro quente",
+      "price": "15.50",
+      "id": 7
+    },
+    {
+      "name": "marmelada",
+      "price": "13",
+      "id": 9
+    },
+    {
+      "name": "macaraõ",
+      "price": "12.30",
+      "id": 10
+    },
+    {
+      "name": "teu cu",
+      "price": "12.30",
+      "id": 11
+    },
+    {
+      "name": "opa",
+      "price": "12.3",
+      "id": 12
+    },
+    {
+      "name": "opah",
+      "price": "14.3",
+      "id": 13
+    },
+    {
+      "name": "parah",
+      "price": "150",
+      "id": 14
+    },
+    {
+      "name": "mouse",
+      "price": "59.99",
+      "id": 17
+    },
+    {
+      "name": "babaca",
+      "price": "14",
+      "id": 18
+    }
+  ]
+}
